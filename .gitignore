@@ -1,0 +1,12 @@
+.git
+.pijul
+.DS_Store
+nv
+node_modules
+typechain
+.env
+.idea
+
+#Hardhat files
+cache
+artifacts
